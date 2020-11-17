@@ -1,0 +1,72 @@
+Button labels::
+&RANDOM=Random&
+&RESET=Reset&
+&INPUT=Input:&
+&OUTPUT=Output:&
+&STATUS=Status:&
+&ROTORCHANGE=Exchange Rotors?&
+
+View of current key:
+&CHOSENKEY=Chosen key&
+&ROTORS=Rotors&
+&STARTPOS=Start positions&
+&STECKERS=Steckers&
+
+Status messages:
+&ROTORTWICE=You cannot select a rotor more than once!&
+&ROTORPOS=Rotor&
+&ROTORPOS1=at 1st position.&
+&ROTORPOS2=at 2nd position.&
+&ROTORPOS3=at 3rd Position.&
+&PLUGBACK=Steckers swapped back.&
+&PLUGEXCH=Steckers exchanged.&
+&PLUGSYMM=Exchange of steckers is not symmetric!&
+&ENTERTEXT=Please enter text in input field above.&
+&ENIGMARESETDONE=Substitution reset to rotors I,II,III and positions A,A,A.&
+&SUBSTITUTIONRESETDONE=Settings are back to A-A, B-B etc.&
+&RANDOMDONE=Key chosen at random.&
+&ROTORSCHOSEN=New rotor selected.&
+&POSCHOSEN=New rotor position selected.&
+&WIREHINT=Highlighted wires show steps of encryption.&
+&SHOWROTORCHOICE=Please chose one out of five rotors for each position.&
+&ROTORCHOICEONOFF=Change rotors?&
+&ROTOR2MOVES=1st rotor moves 2nd rotor.&
+&ROTOR23MOVES=2nd rotor moves 3rd rotor.& 
+
+Mail form:
+CheckBoxes:
+&MAILADMIN=Mail to designer?&
+&MAILKEY=Send key as mail?&
+&MAILCIPHER=Send ciphertext?&
+&MAILGENERIC=Recommend this site?&
+Buttons:
+&SEND=Send&
+&RESETMAIL=Reset&
+&CANCEL=Cancel&
+Labels:
+&NAME=Name:&
+&SUBJECT=Subject:&
+&MAILFROM=Mail from:&
+&MAILTO=Mail to:&
+&MESSAGE=Message:&
+&SENDSTAT=Send-Status:&
+&SECRETMSG=SECRET MESSAGE:&
+&SECRETKEY=SECRET KEY:&
+&FRIENDMSG=Try this Website:&
+&ADMINADDRESS=rotor_40589@enigmaco.de&
+
+Chat-Mode localConnection:
+&SENDCIPHERTO1=Send message to 1&
+&SENDCIPHERTO2=Send message to 2&
+&SENDKEYTO1=Send key to 1&
+&SENDKEYTO2=Send key to 2&
+&CHATBLOCKED=Another Flash-Window with key/message delivery is already opened. Please close previously opened window, close this window and reopen it again!&
+
+Tutorial:
+&OK=Next&
+&BACK=Back&
+&MSG1=The Substitution - step by step to secret messages&
+&MSG2=Key selection 1: By clicking < and > change rotor positions.&
+&MSG3=Key selection 2: Exchange connections by drag and drop of plugs.&
+&MSG4=Text input: Please enter plain text below.&
+&MSG5=You can now mail your key or your secret message!&

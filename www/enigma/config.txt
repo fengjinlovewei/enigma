@@ -1,0 +1,18 @@
+Enigma
+Chat-Mode: 0=off, 1=Chat#1, 2=Chat#2
+&CHATMODE=0&
+
+Mail-Layer: 0=off, 1=on
+&MAILLAYER=1&
+
+Key-Layer: 0=do not show current key, 1=show current key
+&KEYLAYER=1&
+
+Rotor-Layer: 0=do not show rotor change menu, 1=show rotor change menu
+&ROTORLAYER=1&
+
+Reset/Random-Layer: 0=do not show RESET/RANDOM Button Slider, 1=show slider
+&RESETRANDOMLAYER=1&
+
+Tutorial-Layer: 0=do not show tutorial-mode, 1=tutorial mode on
+&TUTORIALLAYER=0&
